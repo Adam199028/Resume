@@ -1,0 +1,66 @@
+body {
+  background-color: #3CB371;
+}
+
+hr {
+  background-color: none;
+  border-color: #2c003e;
+  height: 0px;
+  border-width: 10px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 100%;
+}
+h1 {
+  color: #b030b0;
+}
+
+h3
+{
+  color: #b030b0;
+}
+
+h3
+{
+  text-decoration: underline;
+}
+h3
+{
+  text-transform: capitalize;
+}
+
+h1 {
+  text-shadow: 3px 2px black;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+th {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 40px;
+}
+h2 {
+  text-shadow: 3px 2px black;
+}
+h3 {
+  text-shadow: 3px 2px black;
+}
+
+p {
+  font-size: 44px;
+}
+li {
+  font-size: 40px;
+}
+td {
+  font-size: 40px;
+}
